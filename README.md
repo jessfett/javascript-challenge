@@ -9,5 +9,5 @@ The task was to use D3 to maniupulate the DOM and create a html based webpage th
 - CSS
 - D3
 
-#### Screenshots
-![screenshot 1][img src="https://ibb.co/PmMVVsb"]
+#### Screenshot
+![screenshot 1][img src="https://i.ibb.co/vwhMMCr/proof.png"]
