@@ -7,9 +7,10 @@ The task was to use D3 to manipulate the DOM and create a html based table that 
 
 #### Programs Used
 - JavaScript
+- D3
 - HTML
 - CSS
-- D3
+
 
 #### Screenshot
 ![proof](https://i.ibb.co/vwhMMCr/proof.png)
