@@ -10,4 +10,4 @@ The task was to use D3 to maniupulate the DOM and create a html based webpage th
 - D3
 
 #### Screenshot
-![screenshot 1][img src="https://i.ibb.co/vwhMMCr/proof.png"]
+![screenshot 1]["https://i.ibb.co/vwhMMCr/proof.png"]
